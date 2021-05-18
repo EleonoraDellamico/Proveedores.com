@@ -14,7 +14,7 @@ npm i -D playwright
 node FirstTest.js
 ```
 
-## Usage
+## Exercise
 
 > - Emulate in Chromium without the option headless but with slow motion  50. 
 > - Input research : 'agenda cultural'
