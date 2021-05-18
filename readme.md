@@ -10,7 +10,7 @@ npm i -D playwright
 
 ## Usage
 
-``
+```
 node FirstTest.js
 ```
 
